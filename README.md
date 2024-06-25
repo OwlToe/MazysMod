@@ -56,6 +56,7 @@ This script asset contains macros defining the resolution of the game. It also d
 All code and assets were created by Owl Toe
 
 itch.io: https://owl-toe.itch.io
+
 github: https://github.com/OwlToe
 
 ## License
