@@ -1,0 +1,1 @@
+alpha = 1 //Transparency of score counter. Decreases each frame

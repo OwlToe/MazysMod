@@ -1,0 +1,5 @@
+draw_self()
+draw_set_halign(fa_center)
+draw_set_font(fRubik)
+draw_set_color(c_white)
+draw_text(RESOLUTION_W/2,RESOLUTION_H*0.95,"A game by Owl Toe")

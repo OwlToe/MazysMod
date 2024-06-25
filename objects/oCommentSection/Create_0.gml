@@ -1,0 +1,1 @@
+comments = [] //struct containing username and text
